@@ -31,7 +31,7 @@ Although the application did not expose a `/health` endpoint, the ALB continued 
 
 ### Step 1 – Misconfigured Health Check
 
-![Health Check](lab-01/01-health-check-path.png)
+![Health Check](lab-01/01-health-check-misconfigured.jpeg)
 
 ---
 
