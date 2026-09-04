@@ -97,13 +97,13 @@ while the ECS Service and Application Load Balancer were still configured to rou
 
 ### Step 1 – Modified Task Definition
 
-![Task Definition](lab-02/01-container-port-8080.png)
+![Task Definition](Lab-02/1-ecs-port-mapping-error.png.jpeg)
 
 ---
 
 ### Step 2 – Deployment Failure
 
-![Deployment Error](lab-02/02-port-mapping-error.png)
+![Deployment Error](Lab-02/2-task-definition-port-misconfigured.jpeg)
 
 AWS returned:
 
