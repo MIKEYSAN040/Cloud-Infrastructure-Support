@@ -102,32 +102,32 @@ Since Nginx is the main process inside the container, the container exited immed
 
 ## 1. Healthy Service
 
-![Health Services](Lab-03/01-service-healthy-before-test.jpg)
+![Health Services](01-service-healthy-before-test.jpg)
 ---
 
 ## 2. Updated Task Definition
 
-![Updated Task](Lab-03/02-task-definition-v2.jpeg)
+![Updated Task](02-task-definition-v2.jpeg)
 ---
 
 ## 3. Deployment Started
 
-![Deployment](Lab-03/03-service-deploying.png)
+![Deployment](03-service-deploying.png)
 ---
 
 ## 4. Task Failed
 
-![Task Failed](Lab-03/04-task-stopped.png)
+![Task Failed](04-task-stopped.png)
 ---
 
 ## 5. CloudWatch Investigation
 
-![CloudWatch Investigation](Lab-03/05-cloudwatch-error.png)
+![CloudWatch Investigation](05-cloudwatch-error.png)
 ---
 
 ## 6. Service Recovered
 
-![Recovery Service](Lab-03/06-service-recovered.png)
+![Recovery Service](06-service-recovered.png)
 ---
 
 ## Result
