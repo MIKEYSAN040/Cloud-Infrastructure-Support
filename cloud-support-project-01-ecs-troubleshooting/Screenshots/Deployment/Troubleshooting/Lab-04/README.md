@@ -40,55 +40,55 @@ The task definition referenced a Docker image tag that was not available in Amaz
 
 ### 1. Healthy Service Before Deployment
 
-![Healthy Service](01-service-healthy-before-test.jpeg)
+![Healthy Service](01-service-healthy-before-test.png)
 
 ---
 
 ### 2. Current Task Definition
 
-![Task Definition](02-current-task-definition.jpeg)
+![Task Definition](02-current-task-definition.png)
 
 ---
 
 ### 3. Failed Deployment
 
-![Deployment Failed](03-deployment-failed.jpeg)
+![Deployment Failed](03-deployment-failed.png)
 
 ---
 
 ### 4. CannotPullContainerError
 
-![Cannot Pull Container Error](04-cannot-pull-container-error.jpeg)
+![Cannot Pull Container Error](04-cannot-pull-container-error.png)
 
 ---
 
 ### 5. Incorrect Image Tag
 
-![Incorrect Image Tag](05-incorrect-image-tag.jpeg)
+![Incorrect Image Tag](05-incorrect-image-tag.png)
 
 ---
 
 ### 6. Corrected Task Definition
 
-![Corrected Task Definition](06-corrected-task-definition.jpeg)
+![Corrected Task Definition](06-corrected-task-definition.png)
 
 ---
 
 ### 7. Successful Deployment
 
-![Deployment Successful](07-deployment-successful.jpeg)
+![Deployment Successful](07-deployment-successful.png)
 
 ---
 
 ### 8. Running ECS Task
 
-![Running Task](08-running-task.jpeg)
+![Running Task](08-running-task.png)
 
 ---
 
 ### 9. Application Restored
 
-![Application Restored](09-application-restored.jpeg)
+![Application Restored](09-application-restored.png)
 
 ---
 
