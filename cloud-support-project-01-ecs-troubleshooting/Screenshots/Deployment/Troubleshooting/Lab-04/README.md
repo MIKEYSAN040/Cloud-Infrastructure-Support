@@ -64,7 +64,7 @@ The task definition referenced a Docker image tag that was not available in Amaz
 
 ### 5. Incorrect Image Tag
 
-![Incorrect Image Tag](05-incorrect-image-tag.png)
+![Incorrect Image Tag](05-image-pull-error.png)
 
 ---
 
