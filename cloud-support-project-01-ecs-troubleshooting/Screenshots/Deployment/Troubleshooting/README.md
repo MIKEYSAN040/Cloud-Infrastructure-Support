@@ -31,8 +31,7 @@ Although the application did not expose a `/health` endpoint, the ALB continued 
 
 ### Step 1 – Misconfigured Health Check
 
-![Health Check](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd07a8f6-5c94-4fbe-8f7b-7f7d6765c44e" />
-)
+![Health Check](Lab-01/01-health-check-misconfigured.jpeg)
 
 ---
 
