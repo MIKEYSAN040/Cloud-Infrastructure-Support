@@ -58,7 +58,7 @@ The task definition referenced a Docker image tag that was not available in Amaz
 
 ### 4. CannotPullContainerError
 
-![Cannot Pull Container Error](04-cannot-pull-container-error.png)
+![Cannot Pull Container Error](05-image-pull-error.png)
 
 ---
 
