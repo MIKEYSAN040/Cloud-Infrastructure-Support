@@ -37,7 +37,7 @@ Although the application did not expose a `/health` endpoint, the ALB continued 
 
 ### Step 2 – Target Became Unhealthy
 
-![Target Unhealthy](lab-01/02-target-unhealthy.png)
+![Target Unhealthy](Lab-01/02-target-unhealthy.jpeg)
 
 AWS reported:
 
