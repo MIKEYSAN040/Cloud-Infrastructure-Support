@@ -13,11 +13,11 @@ This project demonstrates production-style troubleshooting of applications runni
 
 ## Troubleshooting Labs
 
-- A.  Lab 01 – ALB Health Check Misconfiguration
-- B.  Lab 02 – ECS Container Port Mapping Error
-- C.  Lab 03 – Container Startup Failure (Invalid Nginx Configuration)
-- D.  Lab 04 – ECS Image Pull Failure from Amazon ECR
-- E.  Lab 05 – IAM Execution Role Misconfiguration
+A.  Lab 01 – ALB Health Check Misconfiguration
+B.  Lab 02 – ECS Container Port Mapping Error
+C.  Lab 03 – Container Startup Failure (Invalid Nginx Configuration)
+D.  Lab 04 – ECS Image Pull Failure from Amazon ECR
+E.  Lab 05 – IAM Execution Role Misconfiguration
 
 ## Skills Demonstrated
 
