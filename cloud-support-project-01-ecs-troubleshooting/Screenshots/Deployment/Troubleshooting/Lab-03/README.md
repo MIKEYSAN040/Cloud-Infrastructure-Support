@@ -1,6 +1,5 @@
 
 # Lab 03 – ECS Container Startup Failure Investigation
-
 ## Objective
 
 This lab demonstrates how to troubleshoot an Amazon ECS task that repeatedly stops because the application inside the container fails during startup.
