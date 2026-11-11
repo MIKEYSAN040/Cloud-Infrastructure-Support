@@ -2,7 +2,7 @@
 
 A hands-on AWS project demonstrating **containerized application deployment and Cloud Support troubleshooting using Amazon ECS**.
 
-## Architecture
+## Architecture  
 
 **Docker -> Amazon ECR -> Amazon ECS Fargate -> Application Load Balancer -> User**
 
